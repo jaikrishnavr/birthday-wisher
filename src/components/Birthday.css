@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.cont_body{
+    width: 50%;
+    height: 150px;
+    
+}
+
+@media only screen and (max-width: 2000px) {
+
+    .cont_body{
+        width: 56%;
+        height: 150px;
+        margin-top: 0%;
+        text-color: white;
+    }
+    
+  }
+
+

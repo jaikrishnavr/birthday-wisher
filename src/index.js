@@ -21,7 +21,7 @@ const BirthdayConfetti = sizeMe({
   }
   render() {
     return (
-      <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}>
+      <div style={{position: 'absolute', top: '0%', left: '20%', width: '60%', height: '15%' }}>
         <Confetti {...this.props.size} />
       </div>
     )

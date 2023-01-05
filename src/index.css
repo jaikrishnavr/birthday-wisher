@@ -4,5 +4,9 @@ body {
   font-family: Roboto, arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #2977f5;
+}
+
+.myindex{
+  position: 'absolute'; top: '0%';
+   left: '25%'; width: '50%'; height: '15%'
 }
